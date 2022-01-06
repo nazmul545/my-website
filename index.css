@@ -54,7 +54,8 @@ margin-left: 150px;
 .second-section{
     display: flex;
    padding-top: 2opx;
-  
+  margin-bottom: 30px;
+  margin-left: 100px;
   
  
 }
@@ -69,7 +70,7 @@ font-style: initial;
     width: 25%;
     height: 40%;
    padding: 20px;
-   margin: 5px;
+   margin-right: 10px;
    border-radius: 15px;
 }
 .div2{
@@ -77,8 +78,9 @@ font-style: initial;
     width: 25%;
     height: 40%;
    padding: 20px;
-   margin:5px;
+   margin-right:10px;
    border-radius: 15px;
+   margin-left: 10px;
 }
 .div3{
     background-color: darkgrey;
@@ -88,5 +90,26 @@ font-style: initial;
   
    border-radius: 15px;
  
-   margin:5px;
+   margin-left:10px;
+}
+.img4{
+    width: 80%;
+    height: 80%;
+    margin-left: 100px;
+    margin-right: 80px;
+}
+.third-section{
+    display: flex;
+  
+}
+.div6{
+    margin-right: 200px;
+    justify-content:center;
+    margin-left: 80px;
+}
+.div6-heading{
+    text-align: left;
+}
+.forth-section{
+    display: flex;
 }
