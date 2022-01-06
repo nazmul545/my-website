@@ -108,15 +108,14 @@ font-style: initial;
     justify-content:center;
     margin-left: 80px;
 }
-.div6-heading{
-    text-align: left;
-}
+
+
 .forth-section{
     display: flex;
 }
 .img5{
-    width:80%;
-    height: 80%;
+    width:40%;
+    height: 50%;
     margin-right: 300px;
     margin-left: 80%;
 }
