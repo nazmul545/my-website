@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+}
+.demo{
+    display: flex;
+}
+.add{
+    width: 50%;
+    padding:0 5px 0 5px;
+}
+.add img{
+    width: 70%;
+}
+.link{
+    text-decoration: none;
+    background-color: coral;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.add1{
+    border-left: 5px solid red;
+}
