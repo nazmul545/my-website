@@ -35,6 +35,9 @@ body{
     margin-top: 0;
     padding: 0 100px 0 50px;
 }
+.img{
+    margin-top: 50px;
+}
 .add p,h1,a{
 margin-left: 150px;
 }
@@ -132,6 +135,7 @@ footer{
 .footer{
    margin-left: 550px;
    color:rgb(243, 243, 89);
+   font-style: italic;
 }
 .para1{
     text-align: center;
