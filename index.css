@@ -4,6 +4,8 @@ body{
 .demo{
     display: flex;
     padding-bottom: 100px;
+    background-image:linear-gradient(135deg,#71b7e6,#9b59b6);
+    margin:15px;
 }
 .add{
     width:50%;
@@ -13,8 +15,9 @@ body{
 .link{
     text-decoration: none;
     background-color: rgb(247, 70, 6);
-    padding: 5px 15px;
+    padding: 5px;
     border-radius: 5px;
+    margin: 0;
 }
 .header{
     margin:auto;
@@ -31,12 +34,12 @@ body{
 
 .add img{
     width:60%;
-    
-    margin-top: 0;
+   
+    margin-top:100px;
     padding: 0 100px 0 50px;
 }
 .img{
-    margin-top: 50px;
+    margin-top: 100px;
 }
 .add p,h1,a{
 margin-left: 150px;
@@ -69,7 +72,7 @@ font-weight: 400px;
 font-style: initial;
 }
 .div1{
-    background-color: rgb(169, 172, 172);
+    background-color: rgb(74, 133, 123);
     width: 25%;
     height: 40%;
    padding: 20px;
@@ -77,7 +80,7 @@ font-style: initial;
    border-radius: 15px;
 }
 .div2{
-    background-color: rgb(195, 212, 212);
+    background-color: rgb(209, 194, 109);
     width: 25%;
     height: 40%;
    padding: 20px;
@@ -86,7 +89,7 @@ font-style: initial;
    margin-left: 10px;
 }
 .div3{
-    background-color: rgb(236, 228, 228);
+    background-color: rgb(149, 161, 78);
     width: 25%;
     height: 40%;
    padding: 20px;
@@ -96,36 +99,46 @@ font-style: initial;
    margin-left:10px;
 }
 .img4{
-    width: 80%;
+    width: 75%;
     height: 80%;
     margin-left: 100px;
     margin-right: 80px;
+    margin-top: 50px;
 }
 .third-section{
     display: flex;
     margin-top: 50px;
-  
+  background-image:linear-gradient(135deg,#71b7e6,#9b59b6);
+  color: beige;
 }
 .div6{
     margin-right: 200px;
     justify-content:center;
     margin-left: 80px;
+    margin-top: 50px;
 }
 
 
 .forth-section{
     display: flex;
+    margin-top: 50px;
+    background-image: url(background\ img.jpg);
 }
 .img5{
     width:80%;
     height: 80%;
     margin-right: 200px;
-    
+    margin-top: 50px;
    
 }
 .div7{
     margin-left: 100px;
     margin-right: 80px;
+    color: aliceblue;
+    margin-top: 50px;
+}
+.heading{
+    margin: 0;
 }
 footer{
     width:100%;
